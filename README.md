@@ -1,5 +1,5 @@
-- 🌱 Je suis en train d'apprendre HTML, CSS, JavaScript, React et React Native, entre autres.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React and React Native amongst other things.
+- 🌱 Surtout apprendre
+- 🌱 Mostly learning
 
 
 <!---
