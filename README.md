@@ -1,5 +1,5 @@
-- 🌱 Surtout apprendre
-- 🌱 Mostly learning
+🌱 Surtout apprendre
+🌱 Mostly learning
 
 
 <!---
