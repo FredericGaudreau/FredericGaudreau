@@ -1,10 +1,3 @@
-🌱 Surtout apprendre
+Récent développeur Front End avec un intérêt pour la technologie, la philosophie et l'impact de la technologie dans la société
 
-
-🌱 Mostly learning
-
-
-<!---
-FredericGaudreau/FredericGaudreau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Recent Front End Developer with an interest in technology, philosophy and the impact of technology in society
