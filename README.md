@@ -1,14 +1,37 @@
-I'm Frederic, a frontend developer who loves working with Vue.js.
+# Bonjour, je suis Frédéric Gaudreau
 
-💻 Main tech stack:
-- Vue.js, React
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Tailwind, Bootstrap
-- Git & GitHub
-- Linux, Mac OSX, Windows
+Développeur frontend, principalement avec **Vue.js**.
 
-🌱 Learning journey:
-- Improving Vue.js skills
-- Exploring new frontend techniques
-- Strengthening JavaScript fundamentals
+## 💻 Stack technique :
+- **Frameworks & Bibliothèques** : Vue.js, React  
+- **Langages** : JavaScript (ES6+), HTML5, CSS3  
+- **Styling** : Tailwind CSS, Bootstrap  
+- **Outils** : Git, GitHub  
+- **Systèmes d'exploitation** : Linux, macOS, Windows  
+
+## 🌱 En ce moment, je m'intéresse à :
+- Les fonctionnalités avancées de Vue.js et les meilleures pratiques  
+- L'optimisation des performances frontend  
+- Les concepts fondamentaux de JavaScript  
+
+N'hésitez pas à me contacter.
+
+---
+
+# Hi, I'm Frédéric Gaudreau
+
+Frontend developer, primarily using **Vue.js**.
+
+## 💻 Tech Stack:
+- **Frameworks & Libraries**: Vue.js, React  
+- **Languages**: JavaScript (ES6+), HTML5, CSS3  
+- **Styling**: Tailwind CSS, Bootstrap  
+- **Tools**: Git, GitHub  
+- **OS**: Linux, macOS, Windows  
+
+## 🌱 Currently Exploring:
+- Advanced Vue.js features and best practices  
+- Frontend performance optimization  
+- Core JavaScript concepts  
+
+Feel free to reach out.
